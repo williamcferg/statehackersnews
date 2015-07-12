@@ -1,0 +1,10 @@
+# Site settings
+title: Coding Space
+email: hello@thecodingspace.com
+description: Coding Space is teaching middle and high schoolers to become critical thinkers and problem solvers through computer science. 
+url: "http://thecodingspace.com" # the base hostname & protocol for your site
+twitter_username: codingspace
+
+# Build settings
+markdown: kramdown
+permalink: /:title
